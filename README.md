@@ -3,7 +3,7 @@
 ### 팀 구성
 
 #### 프로젝트 개요 (내용)
-|emoji||:angry:|:dizzy_face:|:fearful:|:smile:|:sob:|:open_mouth:|:neutral_face:|
+|||:angry:|:dizzy_face:|:fearful:|:smile:|:sob:|:open_mouth:|:neutral_face:|
 |----|----|----|----|----|----|----|----|
 |emotion ||angry|disgust|scared|happy|sad|surprised|neutral|
 
