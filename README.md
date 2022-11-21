@@ -26,8 +26,10 @@ kaggle 표정인식 데이터셋을 활용해 7가지 감정을 인식하도록 
 
 
 ### 개발 툴  
-Google Colab  
+Google Colab 
 
+### 데이터셋
+Kaggle FER-2013
 
 ### 사용 패키지  
 * tensorflow
