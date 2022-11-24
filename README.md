@@ -1,6 +1,6 @@
 # Emotion-Detection
 ## 표정인식 기술을 이용한 이모지 매칭  
-<img width="50%" src="https://user-images.githubusercontent.com/100747267/202380578-d866a180-488a-4f76-ad5b-6eea8fce4faf.jpg"/>
+<img width="50%" src="https://user-images.githubusercontent.com/100747267/203684582-fa37edef-4f7e-498d-a402-ab82ce5fdc26.png"/>
 
 ### 팀 구성  
 팀 명 : 원연수
